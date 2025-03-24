@@ -25,8 +25,8 @@ This project is an AI-powered system designed to screen and rank resumes based o
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/resume_ranking.git
-   cd resume_ranking
+  [ git clone https://github.com/yourusername/resume_ranking.git
+   cd resume_ranking](https://github.com/PAGIDI-AKHILESH/AI-powered-Resume-Screening-and-Ranking.git)
    ```
 
 2. **Install the required packages:**
@@ -100,9 +100,6 @@ We are seeking a talented Software Engineer with a strong background in software
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
